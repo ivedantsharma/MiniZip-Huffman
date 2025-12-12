@@ -1,8 +1,5 @@
 # MiniZip: Huffman File Compressor (C++)
 
-![Language](https://img.shields.io/badge/language-C%2B%2B-blue.svg)
-![Type](https://img.shields.io/badge/type-Lossless%20Compression-green.svg)
-
 ## ⚡ Overview
 
 **MiniZip** is a command-line file compression tool built from scratch in C++. It implements the **Huffman Coding** algorithm to reduce file sizes by assigning shorter binary codes to frequent characters and longer codes to rare ones.
